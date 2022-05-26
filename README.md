@@ -1,7 +1,7 @@
 ### Hi, I’m Danila
 
 I'm interested in making the world a better place.
-I want to make a service/app/whatever to help people in their life.
+I want to make a service/app/whatever to help people in their lifes.
 
 I'm also looking for a job as a **Intern Developer**. I love learning new stuff.
 

@@ -13,6 +13,5 @@ If you have a question or an offer please email me: danyakurach@gmail.com
 
 You also can reach me in [telegram](https://t.me/dupreehkuda)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dupreehkuda&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dupreehkuda&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dupreehkuda&count_private=true&show_icons=true&theme=dracula" alt="Dupreeh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dupreehkuda&layout=compact&theme=dracula" /></a>

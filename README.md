@@ -3,12 +3,16 @@
 I'm interested in making the world a better place.
 I want to make a service/app/whatever to help people in their lifes.
 
-I'm also looking for a job as an **Intern Developer**. I love learning new stuff.
+I'm also looking for a job as a **Go Developer**. I love learning new stuff.
 
-Currently I'm learning `Go` and its most used frameworks and libraries. I can make an iOS app with `Swift` and `SwiftUI`. And I have common knowledge of `Python`, `C++`, `JavaScript`, `SQL`, `zsh`, machine learning, architectural patterns and data structures.
+Currently I'm learning `Go` and its most used frameworks and libraries. In past I was making iOS apps with `Swift` and `SwiftUI`. And I also have common knowledge of `Python`, `C++`, `JavaScript`, `SQL`, `zsh`, machine learning, architectural patterns and data structures.
 
 ### Contacts
 
 If you have a question or an offer please email me: danyakurach@gmail.com
 
 You also can reach me in [telegram](https://t.me/dupreehkuda)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dupreehkuda&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dupreehkuda&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

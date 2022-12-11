@@ -8,6 +8,7 @@ Currently I'm searching for a job as a **Go Developer**.
 In past I was making iOS apps with `Swift` and `SwiftUI`. And I also have common knowledge of `Python`, `C++`, `TypeScript`, `SQL`, `zsh`, machine learning, architectural patterns and data structures.
 
 ### Contacts
+Here's my [CV](https://dupreehkuda.github.io/cv/cv.pdf)
 
 If you have a question or an offer please email me: danyakurach@gmail.com
 

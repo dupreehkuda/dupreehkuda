@@ -1,4 +1,4 @@
-![](./header.svg)
+![](./newheader.svg)
 
 I'm interested in making the world a better place and love learning new stuff.  
 I want to make a service/app/whatever to help people in their lifes. 

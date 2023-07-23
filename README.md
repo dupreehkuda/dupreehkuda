@@ -3,8 +3,6 @@
 I'm interested in making the world a better place and love learning new stuff.  
 I want to make a service/app/whatever to help people in their lifes. 
 
-Currently working at [amo](https://amo.tm) as a software engineer and developing [taskbingo.com](https://taskbingo.com)
-
 <!-- ### Contacts -->
 
 If you have a question or an offer please email me: dkurach@taskbingo.com  

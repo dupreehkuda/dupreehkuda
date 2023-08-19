@@ -1,12 +1,12 @@
-![](./newheader.svg)
+![](./header.svg)
 
-I'm interested in making the world a better place and love learning new stuff.  
-I want to make a service/app/whatever to help people in their lifes. 
+I’m driven by a desire to make a positive difference and find motivation in seeing the impact of my work on end users. I take interest in exploring new technologies and enhancing my skills. Beyond my technical pursuits, I enjoy further nurturing my problem-solving skills through reading and chess.
+
+Created [taskbingo.com](https://taskbingo.com)
 
 <!-- ### Contacts -->
 
-If you have a question or an offer please email me: dkurach@taskbingo.com  
-You also can reach me in [telegram](https://t.me/dupreehkuda)
+You can reach me in [telegram](https://t.me/dupreehkuda) or just [mail me](mailto:dkurach@taskbingo.com)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dupreehkuda&theme=transparent&hide_border=true&card_width=820)](https://git.io/streak-stats)
 
